@@ -17,6 +17,9 @@ public class DemoJavaApplication {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello Test!");
+        int i = 0;
+        int y = 0;
+        System.out.println("Sum: "+ (i+y));
     }
     //it is dead end
 }
